@@ -1,0 +1,8 @@
+Repositorio
+Es el espacio centralizado o carpeta digital donde se almacena absolutamente todo lo relacionado con tu proyecto: archivos de código, documentación, imágenes y configuraciones. Su principal superpoder es que funciona como un registro histórico, guardando la evolución de cada archivo y permitiendo que trabajes de forma local en tu equipo o de forma remota y colaborativa en la nube a través de GitHub.
+
+Commit
+Es una captura de pantalla o un "punto de control" que toma una foto exacta del estado de tus archivos en un momento específico del desarrollo. Al hacer un commit, confirmas y aseguras los cambios que has realizado en tu entorno de trabajo, guardándolos de forma permanente en el historial del repositorio junto a un mensaje descriptivo que explica qué modificaste o arreglaste.
+
+Push
+Es la acción de "empujar" o transferir de manera segura todos los commits y cambios que has registrado localmente ya sea desde tu computadora o desde un entorno como GitHub Codespaces hacia el servidor remoto en GitHub. Este paso es fundamental en el flujo de trabajo, ya que actualiza el proyecto en la nube, asegura que tengas un respaldo en línea y permite que otros colaboradores tengan acceso a tu versión más reciente.
